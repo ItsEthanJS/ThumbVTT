@@ -1,10 +1,10 @@
-echo "Enter the path to your video file."
+echo "Enter the path to your Video file.."
 read video_file
 
-echo "Enter the path to your Output Folder"
+echo "Enter the path to your Output Folder."
 read output_folder
 
-echo "How many seconds in between each frame?"
+echo "How many Seconds in Between each frame?"
 read frame_rate
 
 echo "Select a Tile Size for your sprite sheets (recommended: 5)."
