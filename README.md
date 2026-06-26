@@ -2,10 +2,10 @@
 A simple shell CLI for creating spritesheets and VTT files for video thumbnail scrubbing.
 
 ## Welcome to ThumbVTT
-This is a simple shell script I made for a video project that I was working on. The script allows for quick generation of thumbnail spritesheets, which are often required for modern video players with thumbnail scrubbing/previews (such as with (VideoJS)[https://videojs.org/].
+This is a simple shell script I made for a video project that I was working on. The script allows for quick generation of thumbnail spritesheets, which are often required for modern video players with thumbnail scrubbing/previews (such as with [VideoJS](https://videojs.org/).
 
 # Requirements
-You will need to install `ffmpeg` prior to using this tool.  You can find installation info here: https://ffmpeg.org/
+You will need to install `ffmpeg` prior to using this tool.  You can find installation info here: https://ffmpeg.org/.
 
 This script was written on Ubuntu, so I cannot confirm whether or not it will work as intended on other Operating Systems. 
 
