@@ -14,22 +14,23 @@ To use this tool, download the script and navigate to the directory containing t
 > bash ThumbVTT.sh
 
 Next, fill in the prompts. Example:
+
 > Enter the path to your Video file.
 
 > ./Videos/vid.mp4
 
 
->> Enter the path to your Output Folder.
+> Enter the path to your Output Folder.
 
 > ./Videos/Thumbanils
 
 
->> How many Seconds in Between each frame?
+> How many Seconds in Between each frame?
 
 > 60
 
 
->> Select a Tile Size for your sprite sheets (recommended: 5).
+> Select a Tile Size for your sprite sheets (recommended: 5).
 
 > 5
 
