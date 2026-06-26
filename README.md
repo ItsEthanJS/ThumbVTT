@@ -37,4 +37,4 @@ Next, fill in the prompts. Example:
 Then sit back and watch the magic happen. If you have any issues, feel free to post them on the issues of this repo. 
 
 # NOTE
-I am not experienced with writing shell scripts, so this script could probably be cleaned up. That said, it works how I needed it to, and I hope it's helpful for you as well. 
+I am not all that experienced with writing shell scripts, so this script could probably be cleaned up. That said, it works how I needed it to, and I hope it's helpful for you as well. 
