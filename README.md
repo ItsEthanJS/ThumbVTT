@@ -1,5 +1,5 @@
 # ThumbVTT
-A simple shell CLI for creating spritesheets and VTT files for video thumbnail scrubbing.
+A simple shell CLI for to generate thumbnail spritesheets and VTT files for video thumbnail scrubbing.
 
 ## Welcome to ThumbVTT
 This is a simple shell script I made for a video project that I was working on. The script allows for quick generation of thumbnail spritesheets, which are often required for modern video players with thumbnail scrubbing/previews (such as with [VideoJS](https://videojs.org/).
